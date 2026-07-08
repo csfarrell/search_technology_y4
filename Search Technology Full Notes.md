@@ -335,7 +335,7 @@
 - ASK means user may not know or use language correctly to form search request which properly describes their information need.
 - So the challenge for IR systems is that if users cant accurately describe their informational needs, then how can an IR system which is designed to return information which matches the contents of the query reliably resolve an ASK
 #### Boundaries
-![alt](Images/Pasted image 20250919155211.png)
+![alt text](search_technology_y4/Images/Pasted image 20250919155211.png)
 ![[Pasted image 20250919155236.png]]
 - This is a model of user engagement with a search engine. It is difficult to design studies to examine the existence and placement/relationship between these boundaries
 #### Cognitive View
